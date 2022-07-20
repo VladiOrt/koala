@@ -7,7 +7,17 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+
+
+
+@font-face {
+  font-family: 'Trenda';
+  src: local('Trenda'), url(./components/font/Trenda-Regular.otf) format('truetype');
+}
+
+
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+    monospace,Trenda;
 }
