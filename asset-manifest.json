@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.6fd70e4b.css",
-    "main.js": "/static/js/main.566ce1b1.js",
-    "static/js/787.5bcff037.chunk.js": "/static/js/787.5bcff037.chunk.js",
+    "main.js": "/static/js/main.78188236.js",
+    "static/js/787.79ad7742.chunk.js": "/static/js/787.79ad7742.chunk.js",
     "static/media/img1.png": "/static/media/img1.79c60373506f851a9849.png",
     "static/media/img2.png": "/static/media/img2.8853316d57bd6ff9be6a.png",
     "static/media/img5.png": "/static/media/img5.ae255e6508708d937534.png",
@@ -28,11 +28,11 @@
     "static/media/kwala-web.svg": "/static/media/kwala-web.7d382cfbd46e0f5c7e682cfbdb87fb63.svg",
     "index.html": "/index.html",
     "main.6fd70e4b.css.map": "/static/css/main.6fd70e4b.css.map",
-    "main.566ce1b1.js.map": "/static/js/main.566ce1b1.js.map",
-    "787.5bcff037.chunk.js.map": "/static/js/787.5bcff037.chunk.js.map"
+    "main.78188236.js.map": "/static/js/main.78188236.js.map",
+    "787.79ad7742.chunk.js.map": "/static/js/787.79ad7742.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6fd70e4b.css",
-    "static/js/main.566ce1b1.js"
+    "static/js/main.78188236.js"
   ]
 }
