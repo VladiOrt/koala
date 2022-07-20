@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6fd70e4b.css",
+    "main.js": "/static/js/main.78188236.js",
+    "static/js/787.79ad7742.chunk.js": "/static/js/787.79ad7742.chunk.js",
+    "static/media/img1.png": "/static/media/img1.79c60373506f851a9849.png",
+    "static/media/img2.png": "/static/media/img2.8853316d57bd6ff9be6a.png",
+    "static/media/img5.png": "/static/media/img5.ae255e6508708d937534.png",
+    "static/media/img4.png": "/static/media/img4.7aed1f26e412d9237a6a.png",
+    "static/media/img9.png": "/static/media/img9.08c9bd764a8be3db1257.png",
+    "static/media/img3.png": "/static/media/img3.fc0769f3e7be52bd0aa2.png",
+    "static/media/img6.png": "/static/media/img6.e107d054b7fb7d709416.png",
+    "static/media/img8.png": "/static/media/img8.134d60d6f56c87194e1d.png",
+    "static/media/img10.png": "/static/media/img10.e9cfd6e8031c3dfa7e39.png",
+    "static/media/img11.png": "/static/media/img11.7ce1a6968688b92ec1dd.png",
+    "static/media/fondo.png": "/static/media/fondo.25e80a8327922378d196.png",
+    "static/media/img7.png": "/static/media/img7.b76549f36aa744f30deb.png",
+    "static/media/Trenda-Regular.otf": "/static/media/Trenda-Regular.18b729678bc7bf0ef02a.otf",
+    "static/media/imgDesktop6.png": "/static/media/imgDesktop6.f08e043342242fe26f54.png",
+    "static/media/desktop3.png": "/static/media/desktop3.4956d97799b16d41b4e2.png",
+    "static/media/desktop4.png": "/static/media/desktop4.e1ee7bd9cbdee3202cc2.png",
+    "static/media/desktop2.png": "/static/media/desktop2.5f8f4d9b03ae3b6481e6.png",
+    "static/media/animacionuno.png": "/static/media/animacionuno.544a1d68af82036c100d.png",
+    "static/media/imgDesktop1.png": "/static/media/imgDesktop1.f65c93270c40aa031236.png",
+    "static/media/hojas.svg": "/static/media/hojas.dd46de48a8f3c5e8ec45.svg",
+    "static/media/Kwala.svg": "/static/media/Kwala.cd8d5be5683646191eaf55baf8b4e907.svg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/kwala-web.svg": "/static/media/kwala-web.7d382cfbd46e0f5c7e682cfbdb87fb63.svg",
+    "index.html": "/index.html",
+    "main.6fd70e4b.css.map": "/static/css/main.6fd70e4b.css.map",
+    "main.78188236.js.map": "/static/js/main.78188236.js.map",
+    "787.79ad7742.chunk.js.map": "/static/js/787.79ad7742.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fd70e4b.css",
+    "static/js/main.78188236.js"
+  ]
+}
