@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/koala/static/css/main.2f8610fa.css",
+    "main.css": "/koala/static/css/main.01082da6.css",
     "main.js": "/koala/static/js/main.063e30d5.js",
     "static/js/787.59467d2f.chunk.js": "/koala/static/js/787.59467d2f.chunk.js",
     "static/media/img1.png": "/koala/static/media/img1.79c60373506f851a9849.png",
@@ -31,12 +31,12 @@
     "static/media/kwala-web.svg": "/koala/static/media/kwala-web.7d382cfbd46e0f5c7e682cfbdb87fb63.svg",
     "static/media/check.svg": "/koala/static/media/check.1d8ffd2b86fc7efeccb2.svg",
     "index.html": "/koala/index.html",
-    "main.2f8610fa.css.map": "/koala/static/css/main.2f8610fa.css.map",
+    "main.01082da6.css.map": "/koala/static/css/main.01082da6.css.map",
     "main.063e30d5.js.map": "/koala/static/js/main.063e30d5.js.map",
     "787.59467d2f.chunk.js.map": "/koala/static/js/787.59467d2f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2f8610fa.css",
+    "static/css/main.01082da6.css",
     "static/js/main.063e30d5.js"
   ]
 }
